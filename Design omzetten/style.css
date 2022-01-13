@@ -1,0 +1,24 @@
+.Woorden-bovenaan {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Woorden-bovenaan {
+    background-color: orange;
+}
+
+.Woorden-bovenaan {
+    color: white;
+}
+
+.Twee-links {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.search-balk {
+    display: flex;
+    justify-content: space-around;
+
+}
